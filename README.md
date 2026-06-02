@@ -4,6 +4,8 @@
 
 ---
 
+## Phase 1
+
 ### 🧠 Task 5 — Mental Health Support Chatbot (Fine-Tuning)
 
 My first time fine-tuning an LLM end-to-end, and it was the most interesting for me, and it took the most time.
@@ -45,3 +47,15 @@ UCI dataset. Median/mode imputation, LabelEncoder, StandardScaler. Logistic Regr
 ### 📊 Task 1 — Iris EDA
 
 Made scatter plots, histograms, box plots.
+
+---
+
+## Phase 2
+
+### Task 1
+
+### Task 2
+
+### Task 3
+
+### Task 4
