@@ -7,7 +7,7 @@
 ### Task 1 - News Topic Classifier Using BERT
 - Fine-tuned BERT to classify news headlines into topic categories
 - Visualized using Gradio
-- Deployed on HuggingFace space (Check)[https://huggingface.co/spaces/mafgit/news-classifier]
+- Deployed on HuggingFace space [Check](https://huggingface.co/spaces/mafgit/news-classifier)
 
 ### Task 2 - End-to-End ML Pipeline with Scikit-learn Pipeline API
 - Used Scikit-Learn's Pipeline for preprocessing steps
