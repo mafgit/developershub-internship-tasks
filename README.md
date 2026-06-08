@@ -1,6 +1,23 @@
 # developershub-internship-tasks
 
-> I completed the mandatory as well as optional tasks in the AI/ML Internship I am currently in: DevelopersHub Corporation©. Here's what I built, what challenged me, and what I took away.
+> I have completed my internship at DevelopersHub Corporation©. Here's the summary of the two phases.
+
+## Phase 2
+
+### Task 1 - News Topic Classifier Using BERT
+- Fine-tuned BERT to classify news headlines into topic categories
+- Visualized using Gradio
+- Deployed on HuggingFace space (Check)[https://huggingface.co/spaces/mafgit/news-classifier]
+
+### Task 2 - End-to-End ML Pipeline with Scikit-learn Pipeline API
+- Used Scikit-Learn's Pipeline for preprocessing steps
+- Used GridSearchCV to tune hyperparameters of LogisticRegressor and RandomForestRegressor
+
+### Task 3 - Multimodal ML – Housing Price Prediction Using Images + Tabular Data
+- Used ResNet backbone and custom MLPs to train a model on concatenation/fusion of features from images and tabular data to predict house prices
+
+### Task 4 - Context-Aware Chatbot Using LangChain or RAG
+- I have already made one just like this: [See ChatDocs LangChain on my GitHub](https://github.com/mafgit/chatdocs-langchain), so I didn't do this task.
 
 ---
 
@@ -47,15 +64,3 @@ UCI dataset. Median/mode imputation, LabelEncoder, StandardScaler. Logistic Regr
 ### 📊 Task 1 — Iris EDA
 
 Made scatter plots, histograms, box plots.
-
----
-
-## Phase 2
-
-### Task 1
-
-### Task 2
-
-### Task 3
-
-### Task 4
